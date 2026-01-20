@@ -10,10 +10,15 @@ This repository documents the complete workflow from raw data to final cleaned o
 ## 📂 Repository Structure
 
 ├── Excelerate_data_analysis.ipynb # Full data cleaning & feature engineering notebook
+
 ├── SLU Opportunity Wise Data.csv # Raw dataset
+
 ├── cleaned_data.csv # Final cleaned dataset
+
 ├── documentation.docx # Project documentation (Word)
+
 ├── documentation.pdf # Final report (PDF)
+
 ├── README.md # Project overview (this file)
 
 
@@ -122,6 +127,3 @@ Undergraduate Student | Data Analysis & Machine Learning Enthusiast
 Bangladesh  
 
 ---
-
-## ⭐ Notes
-This project demonstrates practical data cleaning, feature engineering, and validation techniques applied to a real-world dataset. It is intended for portfolio presentation and learning purposes.
